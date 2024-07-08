@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, ChangeEvent } from "react";
-import styles from "@/styles/Home.module.css";
+import styles from "../styles/Home.module.css";
 
 const Home: React.FC = () => {
   const [input1, setInput1] = useState<string>("");
