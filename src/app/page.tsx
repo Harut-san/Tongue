@@ -1,3 +1,5 @@
+"use client";
+
 import { useState, ChangeEvent } from "react";
 import styles from "../styles/Home.module.css";
 
